@@ -1,0 +1,10 @@
+ValleyJin:
+  username: Eugene  # 일반이름
+  name: Eugene Cho   # 풀네임
+  url_full: 
+  url: 
+  bio: Coding & Business
+  picture: assets/images/robot-icon.svg # 글 작성자 맨 앞에 오는 아이콘
+  facebook: jinsam.cho
+  twitter: ValleyJin
+  cover: False

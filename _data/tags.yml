@@ -1,0 +1,16 @@
+ai:
+  name: AI
+  description: Artificial Intelligence
+  cover: assets/images/blog-cover.jpg # 서브매뉴 ai를 눌러 들어오면 나타나는 배경화면
+blockchain:
+  name: Blockchain
+  description: Decentralized world with Blockchain
+  cover: assets/images/blog-cover.jpg
+metaverse:
+  name: Metaverse
+  description: The next internet where you are in, not on.
+  cover: assets/images/blog-cover.jpg
+dev:
+  name: Web & App Development
+  description: Tech blogs of Web & App Development
+  cover: assets/images/blog-cover.jpg
