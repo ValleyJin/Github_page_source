@@ -1,6 +1,3 @@
-[submodule "outpu"]
-	path = outpu
-	url = git@github.com:ValleyJin/ValleyJin.github.io
 [submodule "output"]
 	path = output
 	url = git@github.com:ValleyJin/ValleyJin.github.io

@@ -65,7 +65,7 @@ favicon: assets/images/robot-icon.svg
 production_url: https://valleyjin.github.io/
 # 최종적으로 blog가 운영될 url
 
-source_url: 
+source_url: https://github.com/ValleyJin/Github_page_source
 # page 소스코드를 완성한 후, 업로드할 github repository의 내주소
 
 # Social info
@@ -114,17 +114,18 @@ safe: False
 lsi: False
 
 username: ValleyJin
-repo: 
+repo: Github_page_source
 # username : travis-ci와 연동하는 github의 username
 # repo: travis-ci와 연동하는 github의 repository이름
 # https://github.com/<username>/<repository>
 
-branch: master
-# 사용할 branch명
+branch: main
+# 사용할 branch명. 나는 master를 main으로 이름변경했음
 
 relative_source:
 
-destination: ../[Github_Page]/
+destination: ./output/
+# destination: ../[Github_Page]/ 으로 해준다 (Travis CI 사용안할 경우)
 # compile된 결과가 생성되는 폴더
 # 이 폴더안의 내용이 우리가 운영하는 블로그 내용이 컴파일되서 들어간다.
 # 이 폴더안의 내용을 github repository(https://username.github.io)에 push

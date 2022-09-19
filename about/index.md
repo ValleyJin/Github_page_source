@@ -9,3 +9,7 @@ subclass: "post page"
 ---
 
 Hi guys ! This is ValleyJin's blog. I am gonna introduce present hot technologies and their business merits. "Coding & Business" is my everlasting mantra.
+
+(This site is automatically built and distribute through Travis CI)
+(This site is automatically built and distribute through Travis CI)
+(This site is automatically built and distribute through Travis CI)
